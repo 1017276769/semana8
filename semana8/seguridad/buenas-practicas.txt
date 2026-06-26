@@ -1,0 +1,3 @@
+usar contraseñas seguras y únicas.
+Activar la autenticación en dos pasos.
+No abrir enlaces o archivos sospechosos.
